@@ -3,7 +3,7 @@ Gathering Information and Insights
 
 Gathering information and insights is a crucial step in the creative problem-solving process. By analyzing data and feedback, individuals can identify patterns and insights that inform the development of targeted solutions. In this chapter, we'll explore techniques for gathering information and insights.
 
-1. Identifying Stakeholders
+1\. Identifying Stakeholders
 ---------------------------
 
 When gathering information and insights, it's important to identify all stakeholders who are affected by the problem being addressed. This may include patients, caregivers, healthcare professionals, educators, or other relevant parties. When identifying stakeholders, consider:
@@ -15,7 +15,7 @@ When gathering information and insights, it's important to identify all stakehol
 
 By identifying stakeholders effectively, you can ensure that all perspectives are considered and the solution developed addresses the needs and concerns of all parties involved.
 
-2. Gathering Data and Feedback
+2\. Gathering Data and Feedback
 ------------------------------
 
 Once stakeholders have been identified, it's important to gather relevant data and feedback to inform the problem-solving process. This may involve conducting surveys, focus groups, interviews, or observations to collect qualitative and quantitative data. When gathering data and feedback, consider:
@@ -27,7 +27,7 @@ Once stakeholders have been identified, it's important to gather relevant data a
 
 By gathering data and feedback effectively, you can develop a comprehensive understanding of the problem being addressed and identify potential solutions based on the data collected.
 
-3. Reframing the Problem
+3\. Reframing the Problem
 ------------------------
 
 After gathering data and feedback, it's important to reframe the problem to focus on the root cause and potential solutions. This involves analyzing the data collected and developing insights that inform the problem statement. When reframing the problem, consider:

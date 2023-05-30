@@ -3,7 +3,7 @@ Generating Ideas and Options
 
 Generating ideas and options is a critical step in the creative problem-solving process. By brainstorming potential solutions and thinking creatively, individuals can develop innovative solutions that address complex challenges. In this chapter, we'll explore techniques for generating ideas and options.
 
-1. Encouraging Participation and Creativity
+1\. Encouraging Participation and Creativity
 -------------------------------------------
 
 When generating ideas and options, it's important to encourage participation and creativity. By involving a diverse group of individuals with different perspectives and expertise, you can generate a wide range of ideas and options. When encouraging participation and creativity, consider:
@@ -15,7 +15,7 @@ When generating ideas and options, it's important to encourage participation and
 
 By encouraging participation and creativity, you can generate a wide range of ideas and options that may not have been considered otherwise.
 
-2. Prioritizing Ideas
+2\. Prioritizing Ideas
 ---------------------
 
 Once ideas and options have been generated, it's important to prioritize them based on feasibility, impact, and alignment with organizational goals. When prioritizing ideas, consider:
@@ -27,7 +27,7 @@ Once ideas and options have been generated, it's important to prioritize them ba
 
 By prioritizing ideas effectively, you can identify the most promising solutions and focus your efforts on developing and implementing those solutions.
 
-3. Testing and Refining Ideas
+3\. Testing and Refining Ideas
 -----------------------------
 
 After identifying the most promising ideas and options, it's important to test and refine them through small-scale pilots or prototypes before implementing them on a larger scale. When testing and refining ideas, consider:

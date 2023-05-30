@@ -3,7 +3,7 @@ Engaging Stakeholders and End-Users
 
 Engaging stakeholders and end-users is a critical part of creative problem-solving. By involving those who are affected by the problem or potential solutions, you can gain valuable insights and ensure that solutions are effective and sustainable. In this chapter, we'll explore techniques for engaging stakeholders and end-users.
 
-1. Conducting User Research
+1\. Conducting User Research
 ---------------------------
 
 User research involves gathering information from individuals who will be using or affected by the potential solution. This technique helps you understand user needs, preferences, and behaviors to inform the development of effective solutions. When conducting user research, consider:
@@ -15,7 +15,7 @@ User research involves gathering information from individuals who will be using 
 
 By using user research effectively, you can develop solutions that meet user needs and preferences.
 
-2. Creating Personas
+2\. Creating Personas
 --------------------
 
 Creating personas involves developing fictional characters that represent the target user group. This technique helps you understand user needs and behaviors in a more tangible way. When creating personas, consider:
@@ -27,7 +27,7 @@ Creating personas involves developing fictional characters that represent the ta
 
 By creating personas effectively, you can develop solutions that are tailored to specific user needs and behaviors.
 
-3. Organizing Focus Groups
+3\. Organizing Focus Groups
 --------------------------
 
 Organizing focus groups involves gathering a small group of individuals who represent the target user group to discuss potential solutions. This technique helps you gather feedback and insights from multiple perspectives in a collaborative setting. When organizing focus groups, consider:
@@ -39,7 +39,7 @@ Organizing focus groups involves gathering a small group of individuals who repr
 
 By organizing focus groups effectively, you can gather valuable feedback and insights to guide the development of effective solutions.
 
-4. Engaging Stakeholders
+4\. Engaging Stakeholders
 ------------------------
 
 Engaging stakeholders involves involving individuals who have a stake in the problem or potential solutions in the problem-solving process. This technique helps you gain buy-in and support for potential solutions. When engaging stakeholders, consider:

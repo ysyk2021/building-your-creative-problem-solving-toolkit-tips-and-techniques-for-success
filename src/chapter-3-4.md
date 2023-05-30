@@ -3,7 +3,7 @@ Seeking Out Diverse Perspectives
 
 Gathering information and insights from a variety of perspectives is crucial to creative problem-solving. By seeking out diverse perspectives, you can gain new insights and ideas that may not have been considered otherwise. In this chapter, we'll explore techniques for seeking out diverse perspectives.
 
-1. Brainstorming with a Diverse Group
+1\. Brainstorming with a Diverse Group
 -------------------------------------
 
 Brainstorming with a diverse group involves gathering individuals with different backgrounds, experiences, and viewpoints to generate creative solutions to a problem. This technique helps you generate a wide range of ideas and identify potential solutions that may not have been considered otherwise. When brainstorming with a diverse group, consider:
@@ -15,7 +15,7 @@ Brainstorming with a diverse group involves gathering individuals with different
 
 By using brainstorming with a diverse group effectively, you can generate a wider range of creative solutions.
 
-2. Conducting Interviews
+2\. Conducting Interviews
 ------------------------
 
 Conducting interviews with individuals who have different perspectives related to the problem can provide valuable insights and ideas. This technique helps you gain a deeper understanding of the problem and identify potential solutions. When conducting interviews, consider:
@@ -27,7 +27,7 @@ Conducting interviews with individuals who have different perspectives related t
 
 By using interviews effectively, you can gain valuable insights and ideas from individuals with diverse perspectives.
 
-3. Reading and Researching Diverse Sources
+3\. Reading and Researching Diverse Sources
 ------------------------------------------
 
 Reading and researching diverse sources provides a broad range of perspectives related to the problem. This technique helps you gain a deeper understanding of the problem and identify potential solutions. When reading and researching diverse sources, consider:
@@ -39,7 +39,7 @@ Reading and researching diverse sources provides a broad range of perspectives r
 
 By using reading and researching diverse sources effectively, you can gather valuable insights and ideas from a wide range of perspectives.
 
-4. Involving Stakeholders
+4\. Involving Stakeholders
 -------------------------
 
 Involving stakeholders in the problem-solving process provides a variety of perspectives related to the problem and potential solutions. This technique helps you gain buy-in and support for potential solutions. When involving stakeholders, consider:

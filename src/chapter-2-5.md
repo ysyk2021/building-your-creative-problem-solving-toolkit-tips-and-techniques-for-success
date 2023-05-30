@@ -3,7 +3,7 @@ Evaluating and Selecting Solutions
 
 After generating potential solutions to a problem, it's important to evaluate and select the best solution. This step in the creative problem-solving process helps ensure that the chosen solution is effective and feasible. In this chapter, we'll explore techniques for evaluating and selecting solutions.
 
-1. Criteria-Based Evaluation
+1\. Criteria-Based Evaluation
 ----------------------------
 
 Criteria-based evaluation involves developing criteria for evaluating potential solutions and rating each solution against those criteria. This technique helps you objectively assess potential solutions and identify the most promising ones. When conducting a criteria-based evaluation, consider:
@@ -15,7 +15,7 @@ Criteria-based evaluation involves developing criteria for evaluating potential 
 
 By using a criteria-based evaluation effectively, you can objectively assess potential solutions and identify the most promising ones.
 
-2. Cost-Benefit Analysis
+2\. Cost-Benefit Analysis
 ------------------------
 
 Cost-benefit analysis involves weighing the costs and benefits of potential solutions to determine which one is most feasible. This technique helps you assess the financial and non-financial costs and benefits of potential solutions. When conducting a cost-benefit analysis, consider:
@@ -27,7 +27,7 @@ Cost-benefit analysis involves weighing the costs and benefits of potential solu
 
 By using a cost-benefit analysis effectively, you can assess the financial and non-financial costs and benefits of potential solutions and determine the most feasible one.
 
-3. SWOT Analysis
+3\. SWOT Analysis
 ----------------
 
 SWOT analysis involves assessing the strengths, weaknesses, opportunities, and threats of potential solutions. This technique helps you identify potential challenges and opportunities associated with each solution. When conducting a SWOT analysis, consider:
@@ -39,7 +39,7 @@ SWOT analysis involves assessing the strengths, weaknesses, opportunities, and t
 
 By using a SWOT analysis effectively, you can identify potential challenges and opportunities associated with each solution and determine the best course of action.
 
-4. Prioritization Matrix
+4\. Prioritization Matrix
 ------------------------
 
 A prioritization matrix involves evaluating potential solutions based on multiple criteria and prioritizing them accordingly. This technique helps you identify the most promising solutions based on their overall score. When using a prioritization matrix, consider:

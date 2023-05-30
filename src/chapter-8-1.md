@@ -3,7 +3,7 @@ Resistance to Change
 
 Resistance to change is a common barrier to effective creative problem-solving. Individuals may be resistant to change due to fear of the unknown, lack of understanding, or a preference for the status quo. In this chapter, we'll explore techniques for overcoming resistance to change.
 
-1. Communicating the Benefits of Change
+1\. Communicating the Benefits of Change
 ---------------------------------------
 
 When faced with resistance to change, it's important to communicate the benefits of the proposed solution. This may involve explaining how the solution will lead to better outcomes, improve performance, or align with organizational goals and values. When communicating the benefits of change, consider:
@@ -15,7 +15,7 @@ When faced with resistance to change, it's important to communicate the benefits
 
 By communicating the benefits of change effectively, you can address concerns and objections and encourage buy-in and support for the proposed solution.
 
-2. Encouraging Participation and Collaboration
+2\. Encouraging Participation and Collaboration
 ----------------------------------------------
 
 Another technique for overcoming resistance to change is encouraging participation and collaboration. By involving individuals in the problem-solving process and soliciting their input and feedback, you can develop solutions that reflect their perspectives and needs. When encouraging participation and collaboration, consider:
@@ -27,7 +27,7 @@ Another technique for overcoming resistance to change is encouraging participati
 
 By encouraging participation and collaboration effectively, you can develop solutions that address concerns and objections and encourage buy-in and support for the proposed solution.
 
-3. Providing Training and Support
+3\. Providing Training and Support
 ---------------------------------
 
 Finally, providing training and support can also help overcome resistance to change. This may involve providing training on the new solution, offering ongoing support and resources, or addressing any concerns or questions that individuals may have. When providing training and support, consider:

@@ -3,7 +3,7 @@ Techniques for Gathering Information and Insights
 
 Gathering information and insights is a crucial part of creative problem-solving. By using effective techniques to gather information, you can gain a deeper understanding of the problem and potential solutions. In this chapter, we'll explore several techniques for gathering information and insights.
 
-1. Asking Effective Questions
+1\. Asking Effective Questions
 -----------------------------
 
 Asking effective questions is a crucial part of gathering information and insights. By asking the right questions, you can gain deeper insights into the problem and potential solutions. When asking questions, consider:
@@ -15,7 +15,7 @@ Asking effective questions is a crucial part of gathering information and insigh
 
 By asking effective questions, you can gather valuable information and insights related to the problem and potential solutions.
 
-2. Conducting Research and Analysis
+2\. Conducting Research and Analysis
 -----------------------------------
 
 Conducting research and analysis involves gathering information and analyzing data related to the problem. This technique helps you gain a deeper understanding of the problem and potential solutions. When conducting research and analysis, consider:
@@ -27,7 +27,7 @@ Conducting research and analysis involves gathering information and analyzing da
 
 By conducting research and analysis effectively, you can gain a deeper understanding of the problem and potential solutions.
 
-3. Using Data and Metrics
+3\. Using Data and Metrics
 -------------------------
 
 Using data and metrics involves using quantitative data to inform problem-solving. This technique helps you identify areas where improvement is needed and measure the impact of potential solutions. When using data and metrics, consider:
@@ -39,7 +39,7 @@ Using data and metrics involves using quantitative data to inform problem-solvin
 
 By using data and metrics effectively, you can identify areas for improvement and measure the impact of potential solutions.
 
-4. Seeking Out Diverse Perspectives
+4\. Seeking Out Diverse Perspectives
 -----------------------------------
 
 Seeking out diverse perspectives involves gathering information and insights from individuals with different backgrounds, experiences, and viewpoints related to the problem. This technique helps you gain new insights and ideas that may not have been considered otherwise. When seeking out diverse perspectives, consider:
@@ -51,7 +51,7 @@ Seeking out diverse perspectives involves gathering information and insights fro
 
 By seeking out diverse perspectives, you can gain valuable insights and ideas to support creative problem-solving.
 
-5. Engaging Stakeholders and End-Users
+5\. Engaging Stakeholders and End-Users
 --------------------------------------
 
 Engaging stakeholders and end-users involves involving individuals who have a stake in the problem or potential solutions in the problem-solving process. This technique helps you gain buy-in and support for potential solutions. When engaging stakeholders and end-users, consider:

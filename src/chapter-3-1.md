@@ -3,7 +3,7 @@ Asking Effective Questions
 
 Asking effective questions is a crucial part of gathering information and insights for creative problem-solving. By asking the right questions, you can gain deeper insights into the problem and potential solutions. In this chapter, we'll explore techniques for asking effective questions.
 
-1. Open-Ended Questions
+1\. Open-Ended Questions
 -----------------------
 
 Open-ended questions are questions that encourage detailed and thoughtful responses. This technique helps you gather more in-depth information and insights related to the problem. When asking open-ended questions, consider:
@@ -15,7 +15,7 @@ Open-ended questions are questions that encourage detailed and thoughtful respon
 
 By asking open-ended questions effectively, you can gather valuable information and insights related to the problem.
 
-2. Probing Questions
+2\. Probing Questions
 --------------------
 
 Probing questions are questions that follow up on initial responses to gather more information. This technique helps you gather more detailed and specific information related to the problem. When asking probing questions, consider:
@@ -27,7 +27,7 @@ Probing questions are questions that follow up on initial responses to gather mo
 
 By asking probing questions effectively, you can gather more detailed and specific information related to the problem.
 
-3. Leading Questions
+3\. Leading Questions
 --------------------
 
 Leading questions are questions that suggest a particular answer. While leading questions should generally be avoided, they can be useful in certain situations. When asking leading questions, consider:
@@ -38,7 +38,7 @@ Leading questions are questions that suggest a particular answer. While leading 
 
 By using leading questions judiciously, you can guide discussion and gather valuable information and insights related to the problem.
 
-4. Reflective Questions
+4\. Reflective Questions
 -----------------------
 
 Reflective questions are questions that encourage individuals to reflect on their experiences and perspectives related to the problem. This technique helps you gain a deeper understanding of individual perspectives and experiences related to the problem. When asking reflective questions, consider:

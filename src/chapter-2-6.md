@@ -3,7 +3,7 @@ Implementing and Monitoring Solutions
 
 After selecting a solution to a problem, it's important to implement and monitor the solution to ensure its effectiveness. This step in the creative problem-solving process helps ensure that the chosen solution is successfully implemented and leads to positive outcomes. In this chapter, we'll explore techniques for implementing and monitoring solutions.
 
-1. Developing an Implementation Plan
+1\. Developing an Implementation Plan
 ------------------------------------
 
 Developing an implementation plan involves outlining specific actions, timelines, and responsible parties for putting the chosen solution into action. When developing an implementation plan, consider:
@@ -15,7 +15,7 @@ Developing an implementation plan involves outlining specific actions, timelines
 
 By developing an implementation plan effectively, you can ensure that the chosen solution is implemented efficiently and effectively.
 
-2. Communicating the Solution
+2\. Communicating the Solution
 -----------------------------
 
 Communicating the solution involves sharing information about the chosen solution with stakeholders and end-users. This step helps build support for the solution and ensures that everyone involved understands how it will be implemented. When communicating the solution, consider:
@@ -27,7 +27,7 @@ Communicating the solution involves sharing information about the chosen solutio
 
 By communicating the solution effectively, you can build support for the solution and ensure that everyone involved understands how it will be implemented.
 
-3. Monitoring Progress
+3\. Monitoring Progress
 ----------------------
 
 Monitoring progress involves collecting data and feedback to assess the effectiveness of the implemented solution over time. This step helps identify any challenges or opportunities for improvement and ensures that the solution is leading to positive outcomes. When monitoring progress, consider:
@@ -39,7 +39,7 @@ Monitoring progress involves collecting data and feedback to assess the effectiv
 
 By monitoring progress effectively, you can ensure that the implemented solution is leading to positive outcomes and continuously improving over time.
 
-4. Making Adjustments
+4\. Making Adjustments
 ---------------------
 
 Making adjustments involves refining and improving the implemented solution based on data and feedback collected. This step helps ensure that the solution is continually optimized and leading to the best possible outcomes. When making adjustments, consider:

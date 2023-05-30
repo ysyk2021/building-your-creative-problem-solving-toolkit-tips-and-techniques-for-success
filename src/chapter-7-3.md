@@ -3,7 +3,7 @@ Healthcare and Wellness
 
 Creative problem-solving can be applied to many different fields, including healthcare and wellness. By using the creative problem-solving toolkit in these contexts, healthcare professionals and wellness practitioners can develop innovative solutions to improve patient outcomes and promote healthy living. In this chapter, we'll explore techniques for applying the creative problem-solving toolkit to healthcare and wellness.
 
-1. Identifying the Problem
+1\. Identifying the Problem
 --------------------------
 
 The first step in the creative problem-solving process is identifying the problem. In healthcare and wellness, problems may include high rates of chronic illness, inadequate access to care, or insufficient health education. When identifying the problem, consider:
@@ -14,7 +14,7 @@ The first step in the creative problem-solving process is identifying the proble
 
 By effectively identifying the problem, healthcare professionals and wellness practitioners can develop targeted solutions to improve outcomes.
 
-2. Generating Ideas
+2\. Generating Ideas
 -------------------
 
 Generating ideas involves brainstorming potential solutions to the identified problem. In healthcare and wellness, potential solutions may include new treatment methods, improved access to care, or innovative health education programs. When generating ideas, consider:
@@ -26,7 +26,7 @@ Generating ideas involves brainstorming potential solutions to the identified pr
 
 By effectively generating ideas, healthcare professionals and wellness practitioners can develop innovative solutions to address the identified problem.
 
-3. Evaluating and Selecting Solutions
+3\. Evaluating and Selecting Solutions
 -------------------------------------
 
 Evaluating and selecting solutions involves assessing potential solutions and choosing the most promising one. In healthcare and wellness, potential solutions should be evaluated based on their effectiveness, feasibility, and sustainability. When evaluating and selecting solutions, consider:
@@ -38,7 +38,7 @@ Evaluating and selecting solutions involves assessing potential solutions and ch
 
 By effectively evaluating and selecting solutions, healthcare professionals and wellness practitioners can choose the most promising solution to address the identified problem.
 
-4. Implementing and Evaluating Solutions
+4\. Implementing and Evaluating Solutions
 ----------------------------------------
 
 Implementing and evaluating solutions involves putting the chosen solution into action and assessing its effectiveness over time. In healthcare and wellness, solutions should be implemented with clear goals and metrics to measure success. When implementing and evaluating solutions, consider:

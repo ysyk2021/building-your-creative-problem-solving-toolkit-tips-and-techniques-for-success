@@ -3,7 +3,7 @@ Prioritization Techniques
 
 Once you have generated a variety of creative solutions to a problem, it's important to evaluate and prioritize them to determine which ones are most viable and effective. In this chapter, we'll explore prioritization techniques to help you select the best creative solutions.
 
-1. Criteria-based Prioritization
+1\. Criteria-based Prioritization
 --------------------------------
 
 Criteria-based prioritization is a technique that involves identifying and ranking criteria to evaluate each potential solution. This technique allows you to objectively evaluate each solution based on its ability to meet specific criteria. When using criteria-based prioritization, consider:
@@ -15,7 +15,7 @@ Criteria-based prioritization is a technique that involves identifying and ranki
 
 By using criteria-based prioritization effectively, you can objectively evaluate and compare potential solutions to determine the best course of action.
 
-2. Cost-benefit Analysis
+2\. Cost-benefit Analysis
 ------------------------
 
 Cost-benefit analysis is a technique that involves evaluating the costs and benefits of each potential solution. This technique helps you determine whether a solution is worth pursuing based on its expected returns. When using cost-benefit analysis, consider:
@@ -27,7 +27,7 @@ Cost-benefit analysis is a technique that involves evaluating the costs and bene
 
 By using cost-benefit analysis effectively, you can identify the most financially viable and impactful solution to the problem.
 
-3. Decision Matrix Analysis
+3\. Decision Matrix Analysis
 ---------------------------
 
 Decision matrix analysis is a technique that involves creating a grid to evaluate and compare potential solutions based on multiple criteria. This technique helps you evaluate and compare solutions based on their overall impact and feasibility. When using decision matrix analysis, consider:
@@ -39,7 +39,7 @@ Decision matrix analysis is a technique that involves creating a grid to evaluat
 
 By using decision matrix analysis effectively, you can identify the most effective and feasible solution based on a comprehensive evaluation of multiple criteria.
 
-4. Pareto Analysis
+4\. Pareto Analysis
 ------------------
 
 Pareto analysis is a technique that involves identifying the most significant problems or causes and prioritizing solutions accordingly. This technique helps you focus on the most impactful solutions based on the root causes of the problem. When using Pareto analysis, consider:

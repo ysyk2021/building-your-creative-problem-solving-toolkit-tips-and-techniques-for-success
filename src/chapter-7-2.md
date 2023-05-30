@@ -3,7 +3,7 @@ Education and Training
 
 Creative problem-solving can be applied to many different fields, including education and training. By using the creative problem-solving toolkit in these contexts, educators and trainers can develop innovative solutions to address challenges and improve outcomes. In this chapter, we'll explore techniques for applying the creative problem-solving toolkit to education and training.
 
-1. Identifying the Problem
+1\. Identifying the Problem
 --------------------------
 
 The first step in the creative problem-solving process is identifying the problem. In education and training, problems may include low student engagement, inadequate resources, or outdated curriculum. When identifying the problem, consider:
@@ -14,7 +14,7 @@ The first step in the creative problem-solving process is identifying the proble
 
 By effectively identifying the problem, educators and trainers can develop targeted solutions to improve outcomes.
 
-2. Generating Ideas
+2\. Generating Ideas
 -------------------
 
 Generating ideas involves brainstorming potential solutions to the identified problem. In education and training, potential solutions may include new teaching methods, improved access to resources, or updated curriculum. When generating ideas, consider:
@@ -26,7 +26,7 @@ Generating ideas involves brainstorming potential solutions to the identified pr
 
 By effectively generating ideas, educators and trainers can develop innovative solutions to address the identified problem.
 
-3. Evaluating and Selecting Solutions
+3\. Evaluating and Selecting Solutions
 -------------------------------------
 
 Evaluating and selecting solutions involves assessing potential solutions and choosing the most promising one. In education and training, potential solutions should be evaluated based on their effectiveness, feasibility, and sustainability. When evaluating and selecting solutions, consider:
@@ -38,7 +38,7 @@ Evaluating and selecting solutions involves assessing potential solutions and ch
 
 By effectively evaluating and selecting solutions, educators and trainers can choose the most promising solution to address the identified problem.
 
-4. Implementing and Evaluating Solutions
+4\. Implementing and Evaluating Solutions
 ----------------------------------------
 
 Implementing and evaluating solutions involves putting the chosen solution into action and assessing its effectiveness over time. In education and training, solutions should be implemented with clear goals and metrics to measure success. When implementing and evaluating solutions, consider:
