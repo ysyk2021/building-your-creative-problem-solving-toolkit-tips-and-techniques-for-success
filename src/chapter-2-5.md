@@ -1,5 +1,3 @@
-Evaluating and Selecting Solutions
-======================================================================================
 
 After generating potential solutions to a problem, it's important to evaluate and select the best solution. This step in the creative problem-solving process helps ensure that the chosen solution is effective and feasible. In this chapter, we'll explore techniques for evaluating and selecting solutions.
 

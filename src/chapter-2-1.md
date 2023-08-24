@@ -1,5 +1,3 @@
-Overview of the Creative Problem-Solving Process
-====================================================================================================
 
 The creative problem-solving process is a structured approach to addressing complex challenges in a creative and innovative way. It involves breaking down problems into smaller, more manageable tasks and developing targeted solutions that address the root cause of the problem being addressed. In this chapter, we'll provide an overview of the creative problem-solving process.
 

@@ -1,5 +1,3 @@
-Business and Entrepreneurship
-============================================================================================
 
 Creative problem-solving is a critical skill for success in business and entrepreneurship. By developing innovative solutions to complex challenges, individuals can create new opportunities and drive growth and success for their organizations. In this chapter, we'll explore techniques for applying the creative problem-solving toolkit to the fields of business and entrepreneurship.
 

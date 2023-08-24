@@ -1,5 +1,3 @@
-What is a Creative Problem-Solving Toolkit?
-=========================================================
 
 Creative problem-solving is the practice of developing innovative and effective solutions to complex challenges. It involves a structured approach to problem-solving that leverages creativity, collaboration, and experimentation. A creative problem-solving toolkit is a collection of techniques, tools, and strategies that individuals can use to develop targeted solutions to complex challenges.
 

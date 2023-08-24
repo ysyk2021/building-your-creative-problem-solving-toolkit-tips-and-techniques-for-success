@@ -1,5 +1,3 @@
-Using Data and Metrics
-=========================================================================
 
 Data and metrics are powerful tools for gathering information and insights to support creative problem-solving. By analyzing data and metrics related to the problem at hand, you can gain a deeper understanding of the issue and identify potential solutions. In this chapter, we'll explore techniques for using data and metrics to gather information and insights.
 

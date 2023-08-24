@@ -1,5 +1,3 @@
-Education and Training
-=====================================================================================
 
 Creative problem-solving can be applied to many different fields, including education and training. By using the creative problem-solving toolkit in these contexts, educators and trainers can develop innovative solutions to address challenges and improve outcomes. In this chapter, we'll explore techniques for applying the creative problem-solving toolkit to education and training.
 

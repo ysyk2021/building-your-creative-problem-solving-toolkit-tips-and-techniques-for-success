@@ -1,5 +1,3 @@
-Prioritization Techniques
-================================================================================
 
 Once you have generated a variety of creative solutions to a problem, it's important to evaluate and prioritize them to determine which ones are most viable and effective. In this chapter, we'll explore prioritization techniques to help you select the best creative solutions.
 
@@ -52,5 +50,4 @@ Pareto analysis is a technique that involves identifying the most significant pr
 By using Pareto analysis effectively, you can prioritize solutions based on the most significant factors contributing to the problem.
 
 In conclusion, evaluating and selecting creative solutions requires careful consideration and planning. By using prioritization techniques like criteria-based prioritization, cost-benefit analysis, decision matrix analysis, and Pareto analysis, you can objectively evaluate and select the best creative solutions to solve the problem at hand.
-
 

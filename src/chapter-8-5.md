@@ -1,5 +1,3 @@
-Procrastination and Distractions
-===========================================================================================
 
 Procrastination and distractions can be significant barriers to effective creative problem-solving. When individuals are distracted or procrastinate, it can be challenging to focus on developing innovative solutions that meet the needs of all stakeholders. However, by leveraging time management and prioritization techniques, individuals can overcome these barriers and develop effective solutions. In this chapter, we'll explore techniques for overcoming procrastination and distractions in creative problem-solving.
 

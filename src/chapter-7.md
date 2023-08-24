@@ -1,5 +1,3 @@
-Applying Creative Problem-Solving Toolkit to Different Fields
-=============================================================
 
 Creative problem-solving is a versatile skill that can be applied to many different fields, from business and entrepreneurship to healthcare and wellness. In this chapter, we'll explore techniques for applying the creative problem-solving toolkit to several different fields.
 

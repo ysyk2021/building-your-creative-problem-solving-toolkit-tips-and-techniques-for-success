@@ -1,5 +1,3 @@
-Seeking Out Diverse Perspectives
-===================================================================================
 
 Gathering information and insights from a variety of perspectives is crucial to creative problem-solving. By seeking out diverse perspectives, you can gain new insights and ideas that may not have been considered otherwise. In this chapter, we'll explore techniques for seeking out diverse perspectives.
 

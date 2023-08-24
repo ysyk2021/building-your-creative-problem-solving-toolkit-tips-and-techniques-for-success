@@ -1,5 +1,3 @@
-Design Thinking
-=====================================================================
 
 Design thinking is a powerful technique for generating creative ideas and options in problem-solving. By focusing on the needs of users and stakeholders, individuals can develop innovative solutions that meet their needs and achieve their goals. In this chapter, we'll explore techniques for using design thinking to generate creative ideas and options.
 

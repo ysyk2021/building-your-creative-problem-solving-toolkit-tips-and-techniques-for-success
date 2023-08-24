@@ -1,5 +1,3 @@
-Lack of Motivation or Interest
-=========================================================================================
 
 Lack of motivation or interest can be a significant barrier to effective creative problem-solving. When individuals are not motivated or interested in a particular challenge or project, it can be challenging to develop innovative solutions that meet the needs of all stakeholders. However, by leveraging inspiration and engagement techniques, individuals can overcome this barrier and develop effective solutions. In this chapter, we'll explore techniques for overcoming lack of motivation or interest in creative problem-solving.
 

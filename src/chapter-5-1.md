@@ -1,5 +1,3 @@
-Cost-Benefit Analysis
-============================================================================
 
 Cost-benefit analysis is a powerful tool for evaluating and selecting creative solutions. By comparing the costs and benefits associated with each potential solution, individuals can make informed decisions and select the best solution for a given problem. In this chapter, we'll explore techniques for using cost-benefit analysis to evaluate and select creative solutions.
 

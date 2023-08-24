@@ -1,5 +1,3 @@
-Healthcare and Wellness
-======================================================================================
 
 Creative problem-solving can be applied to many different fields, including healthcare and wellness. By using the creative problem-solving toolkit in these contexts, healthcare professionals and wellness practitioners can develop innovative solutions to improve patient outcomes and promote healthy living. In this chapter, we'll explore techniques for applying the creative problem-solving toolkit to healthcare and wellness.
 
@@ -51,5 +49,4 @@ Implementing and evaluating solutions involves putting the chosen solution into 
 By effectively implementing and evaluating solutions, healthcare professionals and wellness practitioners can improve patient outcomes and promote healthy living.
 
 In conclusion, applying the creative problem-solving toolkit to healthcare and wellness can lead to innovative solutions that improve patient outcomes and promote healthy living. By identifying the problem, generating ideas, evaluating and selecting solutions, and implementing and evaluating solutions effectively, healthcare professionals and wellness practitioners can develop effective solutions to address challenges in healthcare and wellness.
-
 

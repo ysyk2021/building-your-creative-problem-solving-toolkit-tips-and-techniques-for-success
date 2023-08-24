@@ -1,5 +1,3 @@
-Project Management Techniques
-=============================================================================
 
 Implementing and monitoring creative solutions is a critical part of the problem-solving process. Effective project management techniques can help individuals ensure that their solutions are implemented successfully and achieve their intended outcomes. In this chapter, we'll explore techniques for using project management to implement and monitor creative solutions.
 

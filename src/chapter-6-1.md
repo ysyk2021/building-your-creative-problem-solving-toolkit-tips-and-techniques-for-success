@@ -1,5 +1,3 @@
-Creating Action Plans and Milestones
-====================================================================================
 
 Creating action plans and milestones is a critical part of implementing and monitoring creative solutions. By breaking down the implementation process into smaller, more manageable steps, individuals can ensure that their solutions are implemented effectively and efficiently and achieve their intended outcomes. In this chapter, we'll explore techniques for using action plans and milestones to implement and monitor creative solutions.
 

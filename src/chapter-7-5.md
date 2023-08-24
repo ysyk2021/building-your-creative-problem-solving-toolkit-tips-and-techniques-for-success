@@ -1,5 +1,3 @@
-Social and Political Issues
-==========================================================================================
 
 Social and political issues are complex challenges that require innovative and creative solutions. From inequality to human rights violations, these challenges require a structured approach to problem-solving that addresses the root cause of the issue being addressed. In this chapter, we'll explore how to apply a creative problem-solving toolkit to social and political issues.
 

@@ -1,5 +1,3 @@
-Environment and Sustainability
-=============================================================================================
 
 The environment and sustainability are critical issues facing the world today. From climate change to resource depletion, these challenges require innovative and creative solutions that address the root cause of the problem being addressed. In this chapter, we'll explore how to apply a creative problem-solving toolkit to environmental and sustainability issues.
 

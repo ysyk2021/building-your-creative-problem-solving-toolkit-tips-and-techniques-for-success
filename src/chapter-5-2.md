@@ -1,5 +1,3 @@
-Risk Assessment and Management
-=====================================================================================
 
 Effective problem-solving requires not only developing creative solutions but also evaluating and selecting the best solution among them. However, even the most innovative and creative solutions may come with risks and uncertainties. In this chapter, we'll explore techniques for using risk assessment and management to evaluate and select creative solutions.
 

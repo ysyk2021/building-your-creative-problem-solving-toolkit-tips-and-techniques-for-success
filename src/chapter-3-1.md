@@ -1,5 +1,3 @@
-Asking Effective Questions
-=============================================================================
 
 Asking effective questions is a crucial part of gathering information and insights for creative problem-solving. By asking the right questions, you can gain deeper insights into the problem and potential solutions. In this chapter, we'll explore techniques for asking effective questions.
 

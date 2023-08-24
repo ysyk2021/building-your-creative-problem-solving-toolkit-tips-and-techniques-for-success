@@ -1,5 +1,3 @@
-Overcoming Barriers to Effective Creative Problem-Solving
-=========================================================
 
 Creative problem-solving can be a challenging process, and individuals may encounter various barriers along the way that hinder their progress. In this chapter, we'll explore techniques for overcoming some common barriers to effective creative problem-solving.
 

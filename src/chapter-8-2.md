@@ -1,5 +1,3 @@
-Limited Resources or Funding
-=======================================================================================
 
 One of the most significant barriers to effective creative problem-solving is limited resources or funding. When individuals are working with limited resources, it can be challenging to develop innovative solutions that meet the needs of all stakeholders. However, by leveraging creativity and collaboration, individuals can overcome this barrier and develop effective solutions. In this chapter, we'll explore techniques for overcoming limited resources or funding in creative problem-solving.
 

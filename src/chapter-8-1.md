@@ -1,5 +1,3 @@
-Resistance to Change
-===============================================================================
 
 Resistance to change is a common barrier to effective creative problem-solving. Individuals may be resistant to change due to fear of the unknown, lack of understanding, or a preference for the status quo. In this chapter, we'll explore techniques for overcoming resistance to change.
 

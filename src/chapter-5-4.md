@@ -1,5 +1,3 @@
-Decision Matrix
-======================================================================
 
 The decision matrix is a powerful tool for evaluating and selecting creative solutions. This tool allows you to compare potential solutions based on multiple criteria and identify the best option based on a comprehensive evaluation. In this chapter, we'll explore how to use the decision matrix for creative problem-solving.
 

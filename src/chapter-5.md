@@ -1,5 +1,3 @@
-Tools for Evaluating and Selecting Creative Solutions
-=====================================================
 
 Evaluating and selecting the right creative solution is a critical component of effective problem-solving. By using various tools and techniques, individuals can identify the most effective and efficient solution for a given problem. In this chapter, we'll explore several tools for evaluating and selecting creative solutions.
 
