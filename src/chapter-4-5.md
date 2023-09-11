@@ -1,5 +1,4 @@
-Chapter 9: Lateral Thinking
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In your journey to build a comprehensive creative problem-solving toolkit, the concept of "Lateral Thinking" plays a pivotal role. This chapter delves into the principles of lateral thinking, its significance, and how you can harness its power to tackle complex challenges and discover innovative solutions.
 

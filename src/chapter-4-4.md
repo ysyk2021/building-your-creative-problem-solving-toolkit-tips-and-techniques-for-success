@@ -1,5 +1,4 @@
-Chapter 10: Design Thinking
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the realm of creative problem-solving, "Design Thinking" stands as a holistic and human-centered approach, focusing on creating innovative solutions with a keen emphasis on user experience. In this chapter, we'll dive into the world of design thinking, its methodologies, and how you can leverage its principles for effective problem-solving.
 

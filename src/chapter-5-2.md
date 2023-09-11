@@ -1,5 +1,4 @@
-Chapter 11: Risk Assessment and Management
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In your journey to build a comprehensive creative problem-solving toolkit, understanding "Risk Assessment and Management" is essential. This chapter explores the critical aspects of risk analysis, its significance, and how you can effectively manage risks to achieve successful outcomes.
 

@@ -1,5 +1,4 @@
-Chapter 6: Brainstorming Techniques
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will dive into various brainstorming techniques that are essential components of your creative problem-solving toolkit. Brainstorming is a powerful method for generating innovative ideas and solutions to complex challenges.
 

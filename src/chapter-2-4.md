@@ -1,5 +1,4 @@
-Chapter 7: Generating Ideas and Options
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 One of the fundamental pillars of creative problem-solving is the ability to generate a wide range of ideas and options. This chapter delves into techniques and strategies for expanding your creative thinking and developing a robust set of potential solutions to any problem.
 

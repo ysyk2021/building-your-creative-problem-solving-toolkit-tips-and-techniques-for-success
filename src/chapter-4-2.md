@@ -1,5 +1,4 @@
-Chapter 8: Mind Mapping
-=======================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Mind mapping is a powerful visual technique that can significantly enhance your creative problem-solving abilities. In this chapter, we will explore the concept of mind mapping, its benefits, and how you can effectively use it to organize your thoughts, generate ideas, and solve problems.
 

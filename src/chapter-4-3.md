@@ -1,5 +1,4 @@
-Chapter 6: Reverse Thinking
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In your quest to build a comprehensive creative problem-solving toolkit, one valuable technique to add to your repertoire is "Reverse Thinking." This unconventional approach challenges traditional problem-solving methods and encourages you to explore issues from a fresh perspective, often leading to innovative and unexpected solutions.
 

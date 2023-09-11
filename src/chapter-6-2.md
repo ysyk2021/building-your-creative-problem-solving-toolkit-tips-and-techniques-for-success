@@ -1,5 +1,4 @@
-Chapter 5: Project Management Techniques
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore essential project management techniques that can enhance your creative problem-solving toolkit. Effective project management is crucial for successfully addressing complex problems and achieving your goals.
 

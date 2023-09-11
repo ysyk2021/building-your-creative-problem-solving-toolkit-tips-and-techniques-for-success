@@ -1,5 +1,4 @@
-Chapter 14: Procrastination and Distractions
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Procrastination and distractions are common adversaries on the journey of creative problem-solving. In this chapter, we'll explore the dynamics of procrastination, the various forms of distractions, and effective strategies to overcome these obstacles and keep your problem-solving efforts on track.
 
